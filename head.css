@@ -1,0 +1,153 @@
+*{
+	margin:0;
+	padding:0;
+}
+.banner_1{
+	overflow:hidden;
+	box-shadow:3px 3px 20px gray;
+	position:relative;
+	z-index:5;
+}
+
+.head{
+	width:1200px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.head_1,.head_2{
+	float:left;
+	margin-left:20px;
+	overflow:hidden;
+}
+.head_2 li{
+	float:left;
+	height:78px;
+	overflow:hidden;
+	list-style:none;
+}
+.head_2 a{
+	display:block;
+	height:78px;
+	overflow:hidden;
+	background:url(img/nav.png) no-repeat;
+}
+.head_2 .nav_01{
+	width:98px;
+}
+.head_2 .nav_02{
+	width:125px;
+	background-position:-98px 0;
+}
+.head_2 .nav_03{
+	width:147px;
+	background-position:-222px 0;
+}
+.head_2 .nav_04{
+	width:122px;
+	background-position:-368px 0;
+}
+.head_2 .nav_05{
+	width:125px;
+	background-position:-488px 0;
+}
+.head_2 a:hover{
+	background:url(img/nav-on.png) no-repeat;
+}
+.head_2 .nav_02:hover{
+	background-position:-98px 0;
+}
+.head_2 .nav_03:hover{
+	background-position:-222px 0;
+}
+.head_2 .nav_04:hover{
+	background-position:-368px 0;
+}
+.head_2 .nav_05:hover{
+	background-position:-488px 0;
+}
+.head_3{
+	float:left;
+	width:135px;
+	margin-top:12px;
+	margin-left:70px;
+}
+.head_3>div{
+	float:left;
+	margin:0 10px;
+	overflow:hidden;
+}
+.head_3 #sub,.head_3 #serch{
+	background-color:white;
+	border:white;
+	margin-left:6px;
+}
+.head_3>.s1{
+	margin-top:10px;
+	border-right:1px solid gray;
+}
+
+.banner_2{
+	width:1440px;
+	margin:0 auto;
+}
+.banner_3,.banner_4{
+	width:1027px;
+	margin:10px auto 0;
+	overflow:hidden;
+}
+.banner_4{
+	background:url(img/bg.png) no-repeat;
+	background-position:right bottom;
+}
+.banner_4 .part_1{
+	float:left;
+	width:26px;
+	height:40px;
+	margin-top:60px;
+	overflow:hidden;
+	background:url(img/direct.png) no-repeat;
+}
+.banner_4 .part_2{
+	float:left;
+	margin-left:20px;
+	overflow:hidden;
+}
+.banner_4 .part_3{
+	float:left;
+	width:550px;
+	overflow:hidden;
+	margin-left:20px;
+}
+.banner_4 .part_3 .a2{
+	margin-top:5px;
+	overflow:hidden;
+}
+.banner_4 .part_3 .a2>div{
+	float:left;
+	margin-top:2px;
+	overflow:hidden;
+}
+.banner_4 .part_3 .a2>p{
+	float:left;
+	margin-left:8px;
+}
+.banner_4 .part_3 .a3{
+	margin-top:20px;
+	font-weight:bold;
+	line-height:25px;
+}
+.banner_4 .part_4{
+	float:right;
+	width:40px;
+	height:50px;
+	overflow:hidden;
+	margin-top:60px;
+	background:url(img/direct.png) no-repeat;
+	background-position:0 -143px;
+}
+.banner_4 .part_5{
+	width:50px;
+	margin:10px auto -5px;
+}
+
+

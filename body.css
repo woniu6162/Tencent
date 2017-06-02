@@ -1,0 +1,320 @@
+/* 第一块 */
+a{
+	text-decoration:none;
+	color:black;
+}
+.all{
+	width:100%
+	overflow:hidden;
+	background:#d6dae2;
+}
+.body{
+	width:1100px;
+	margin:0 auto;
+	overflow:hidden;
+}
+._left{
+	float:left;
+	overflow:hidden;
+}
+._right{
+	float:right;
+	overflow:hidden;
+	margin-top:20px;
+}
+.body_1,.body_2,.body_3,.body_4{
+	width:740px;
+	overflow:hidden;
+	padding:20px 20px;
+	margin:20px 0;
+	border:1px dashed gray;
+	background-color:#f2f1ef;
+}
+.body_1{
+	height:340px;
+}
+.body_1 .room_1>div,.body_1 .room_1>h3{
+	float:left;
+}
+.body_1 .room_1{
+	overflow:hidden;
+}
+.body_1 .room_1>h3{
+	margin-left:10px;
+}
+.body_1 .room_1>a{
+	float:right;
+	text-decoration:none;
+}
+.body_1 .room_2{
+	margin-top:10px;
+}
+.body_1 .room_2 .kind1{
+	float:left;
+	margin-left:30px;
+	overflow:hidden;
+}
+.body_1 .room_2 #spec1{
+	margin-left:0;
+}
+.body_1 .room_2 .kind2{
+	width:206px;
+	padding:15px 10px 10px 10px;
+	background:white;
+}
+.body_1 .room_2 .kind2>h4{
+	margin-bottom:7px;
+}
+.body_1 .room_2 .kind1 .b1{
+	border-top:3px solid #1fc0ef;
+}
+.body_1 .room_2 .kind1 .b2{
+	border-top:3px solid #f6a544;
+}
+.body_1 .room_2 .kind1 .b3{
+	border-top:3px solid #8cbe00;
+}
+
+/* 第二块 */
+
+.body_2 .room_1>div,.body_2 .room_1>h3{
+	float:left;
+}
+.body_2{
+	height:540px;
+}
+.body_2 .room_1{
+	overflow:hidden;
+}
+.body_2 .room_1>h3{
+	margin-left:10px;
+}
+.body_2 .room_1>a{
+	float:right;
+	text-decoration:none;
+}
+.body_2 .room_2>div{
+	overflow:hidden;
+}
+.body_2 .room_2>div{
+	margin-top:20px;
+	background-color:white;
+	padding:20px;
+}
+.body_2 .room_2 .kind1{
+	float:left;
+}
+.body_2 .room_2 .kind2{
+	float:left;
+	margin-left:20px;
+}
+.body_2 .kind2 .a1{
+	overflow:hidden;
+	margin:10px 0;
+}
+.body_2 .kind2 .a1>div{
+	float:left;
+	margin-top:2px;
+}
+.body_2 .kind2 .a1>p{
+	float:left;
+	margin-left:7px;
+}
+
+/* 第三块 同第一块 */
+
+.body_3 .room_1>div,.body_3 .room_1>h3{
+	float:left;
+}
+.body_3{
+	height:340px;
+}
+.body_3 .room_1{
+	overflow:hidden;
+}
+.body_3 .room_1>h3{
+	margin-left:10px;
+}
+.body_3 .room_1>a{
+	float:right;
+	text-decoration:none;
+}
+.body_3 .room_2{
+	margin-top:10px;
+}
+.body_3 .room_2 .kind1{
+	float:left;
+	margin-left:30px;
+	overflow:hidden;
+}
+.body_3 .room_2 #spec1{
+	margin-left:0;
+}
+.body_3 .room_2 .kind2{
+	width:206px;
+	padding:15px 10px 10px 10px;
+	background:white;
+}
+.body_3 .room_2 .kind2>h4{
+	margin-bottom:7px;
+}
+.body_3 .room_2 .kind1 .b1{
+	border-top:3px solid #1fc0ef;
+}
+.body_3 .room_2 .kind1 .b2{
+	border-top:3px solid #f6a544;
+}
+.body_3 .room_2 .kind1 .b3{
+	border-top:3px solid #8cbe00;
+}
+
+
+/* 第四块 */
+.body_4 .room_1>div,.body_4 .room_1>h3{
+	float:left;
+}
+.body_4{
+	height:880px;
+}
+
+.body_4 .room_1{
+	overflow:hidden;
+}
+.body_4 .room_1>h3{
+	margin-left:10px;
+}
+.body_4 .room_1>a{
+	float:right;
+	text-decoration:none;
+}
+
+.body_4 .room_2>div{
+	float:left;
+	overflow:hidden;
+	margin-top:20px;
+}
+.body_4 .room_2 .a2{
+	margin-left:30px;
+}
+.body_4 .room_2 .b1{
+	overflow:hidden;
+	margin-bottom:20px;
+}
+.body_4 .room_2 .b1>div{
+	float:left;
+	width:308px;
+	height:24px;
+	background:url(img/ban.png) no-repeat;
+}
+.body_4 .room_2 .b1 p{
+	margin-left:30px;
+	margin-top:3px;
+	font-weight:bold;
+}
+.body_4 .room_2 .b1 .d2{
+	background-position:0 -24px;
+}
+.body_4 .room_2 .b1 .d3{
+	background-position:0 -48px;
+}
+.body_4 .room_2 .b1 .d4{
+	background-position:0 -72px;
+}
+.body_4 .room_2 .b1 .p1{
+	color:#9dddee;
+}
+.body_4 .room_2 .b1 .p2{
+	color:#f3d3aa;
+}
+.body_4 .room_2 .b1 .p3{
+	color:#f7bc8f;
+}
+.body_4 .room_2 .b1 .p4{
+	color:#c9dd8f;
+}
+.body_4 .room_2 .b1>a{
+	float:left;
+	margin-top:7px;
+}
+.body_4 .room_2 .c1{
+	width:355px;
+}
+.body_4 .room_2 .c1>p{
+	color:gray;
+}
+.body_4 .room_2 .c1>h3{
+	margin:10px 0;
+}
+.body_4 .room_2 .c1 .e1{
+	overflow:hidden;
+	margin:15px 0;
+}
+.body_4 .room_2 .c1 .e1>div{
+	float:left
+}
+.body_4 .room_2 .c1 .e1>a{
+	float:left;
+	margin-left:4px;
+	margin-top:3px;
+}
+
+/* 第五块_右边第一块 */
+.body_5{
+	width:250px;
+	padding:20px;
+	border:dashed gray 1px;
+	float:right;
+	overflow:hidden;
+	background:#fcfafb;
+}
+
+.body_5 .room_1>div,.body_4 .room_1>h3{
+	float:left;
+}
+.body_5{
+	height:840px;
+}
+
+.body_5 .room_1{
+	overflow:hidden;
+}
+.body_5 .room_1>h3{
+	margin-left:10px;
+}
+.body_5 .room_2{
+	margin:15px 0;
+	overflow:hidden;
+}
+.body_5 .room_2>div{
+	float:left;
+	width:120px;
+	height:40px;
+	line-height:40px;
+	text-align:center;
+	background:url(img/dot.png) no-repeat;
+}
+.body_5 .room_2 .a1{
+	background-position:0 5px;
+}
+.body_5 .room_2 .a2{
+	background-position:115px 5px;
+}
+.body_5 .room_2 .a1>p{
+	border-left:1px solid;
+	border-top:1px solid;
+	border-right:1px solid;
+	border-color:#ccc;
+	width:117px;
+	height:36px;
+	margin-left:2px;
+}
+.body_5 .room_2 .a2>p{
+	border-right:1px solid;
+	border-bottom:1px solid;
+	border-color:#ccc;
+	width:117px;
+	height:36px;
+	margin-right:2px;
+}
+.body
+
